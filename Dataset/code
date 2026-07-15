@@ -1,0 +1,13 @@
+# Code
+
+This folder contains the complete Python implementation of the proposed Four-Valued Fuzzy Machine Learning Framework (FVFFF).
+
+Contents include:
+
+- Data preprocessing
+- Four-valued fuzzification
+- Fuzzy predictor construction (P1–P8)
+- Fuzzy rule-based inference
+- Classical Machine Learning
+- Fuzzy Machine Learning
+- SHAP explainability analysis
